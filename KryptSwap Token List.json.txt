@@ -1,5 +1,5 @@
 {
-  "name": "KryptSwap Token List",
+  "name": "Quickswap Token List",
   "timestamp": "2022-10-12T13:46:17.455Z",
   "version": {
     "major": 1,
